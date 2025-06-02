@@ -27,6 +27,15 @@ The dataset is stored on Kaggle and consists of the following files:
   - [Egresos_2001-2020.parquet](https://www.kaggle.com/datasets/mirkopodunavak/egresos-hospitalarios-2001-2020)
   - [Egresos_2001-2020.csv](https://www.kaggle.com/datasets/mirkopodunavak/egresos-hospitalarios-2001-2020)
 
+- **Processed Data in parquet format with column names and data types updated, ready for a deeper cleaning**  
+  - [Egresos_cleaned.parquet](https://www.kaggle.com/datasets/mirkopodunavak/egresos-hospitalarios-2001-2020)
+
+- **Processed and cleaned Data in parquet format, ready to use in the EDA phase of the project for the general analysis**  
+  - [General_analysis_data.parquet](https://www.kaggle.com/datasets/mirkopodunavak/egresos-hospitalarios-2001-2020)
+
+- **Processed and cleaned Data in parquet format, ready to use in the EDA phase of the project for the readmission analysis**  
+  - [Readmissions.parquet](https://www.kaggle.com/datasets/mirkopodunavak/egresos-hospitalarios-2001-2020)
+
 You can download the dataset files from: (https://www.kaggle.com/datasets/mirkopodunavak/egresos-hospitalarios-2001-2020).
 
 Project overview (PENDIENTE):
